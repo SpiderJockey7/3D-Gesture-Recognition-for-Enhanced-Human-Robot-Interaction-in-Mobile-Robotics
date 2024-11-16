@@ -81,7 +81,9 @@ python predict.py <model_file>
 ```
 
 Features
+
 Gesture Classification: Recognizes 8 different gestures: 'STOP', 'Forward', 'BACK', 'LEFT', 'RIGHT', 'GRAB', 'action_ONE', 'action_TWO'.
+
 Real-time Display: The gesture classification result is displayed on the video stream.
 Press ESC to exit the program.
 
